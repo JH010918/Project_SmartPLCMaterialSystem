@@ -128,6 +128,6 @@ PLC → 위치결정모듈 → 서보앰프 → 서보모터 → 서보앰프 (F
   - 선입이 작동하고 있다면 선출, 상태점검은 버튼을 눌러도 작동하지 않게 됨
  
 ## 💻 HMI
-![hmi1](hmi/hmi1.PNG)
-![hmi2](hmi/hmi2.PNG)
-![hmi3](hmi/hmi3.PNG)
+![hmi1](hmi/hmi1.png)
+![hmi2](hmi/hmi2.png)
+![hmi3](hmi/hmi3.png)
