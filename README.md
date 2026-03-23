@@ -131,3 +131,6 @@ PLC → 위치결정모듈 → 서보앰프 → 서보모터 → 서보앰프 (F
 ![hmi1](img/hmi1.PNG)
 ![hmi2](img/hmi2.PNG)
 ![hmi3](img/hmi3.PNG)
+
+## 📑 메뉴얼
+![manual](img/manual.png)
